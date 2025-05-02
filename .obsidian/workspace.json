@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core/archetypes/Застрельщик.md",
+                "file": "core/dictionary/dictionary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Застрельщик"
+              "title": "dictionary"
             }
           }
         ]
@@ -217,14 +217,21 @@
   },
   "active": "2c87bff504f79bda",
   "lastOpenFiles": [
-    "core/archetypes/Гренадир.md",
+    "core/basics/char stats/Инженерия(ИНЖ).md",
+    "core/dictionary/dictionary.md",
+    "core/dictionary",
+    "core/basics/char stats/char stats.md",
+    "demo file.md",
     "core/basics/tags/tags.md",
+    "lore/lore.md",
+    "core/basics/статы.md",
+    "core/basics/char stats",
+    "core/basics/блять ну ты понял.md",
     "core/archetypes/Застрельщик.md",
+    "core/archetypes/Гренадир.md",
     "core/archetypes/Инженер.md",
     "core/archetypes/Комбатант.md",
-    "core/basics/блять ну ты понял.md",
     "core/features/Проворный.md",
-    "lore/lore.md",
     "images/картинки обязательно тут.md",
     "lore/Лор.md",
     "core/species/Горец.md",
@@ -233,9 +240,7 @@
     "core/how to create char/как создать чара.md",
     "core/basics/Устойчивость.md",
     "core/basics/Механ.md",
-    "demo file.md",
     "core/basics/Untitled.md",
-    "core/basics/статы.md",
     "core/items/items.md",
     "core/features/features.md",
     "core/basics/basics.md",
@@ -246,13 +251,8 @@
     "lore",
     "core/how to create char",
     "core/features",
-    "core/basics/Хід гравця.md",
     "core/archetypes",
     "core/species",
-    "core/basics/actions/Дії.md",
-    "core/basics/actions/Действия.md",
-    "dice-cats/chars/Мах Мономах",
-    "dice-cats/chars/Лютострах Молодший",
     "image.png"
   ]
 }
