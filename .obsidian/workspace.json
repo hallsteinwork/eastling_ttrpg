@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "demo file.md",
+                "file": "core/features/Проворный.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "demo file"
+              "title": "Проворный"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1stLevel",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -217,9 +217,32 @@
   },
   "active": "2c87bff504f79bda",
   "lastOpenFiles": [
+    "lore/lore.md",
+    "images/картинки обязательно тут.md",
+    "lore/Лор.md",
+    "core/species/Горец.md",
+    "core/items/Панцерный подсумок.md",
+    "core/basics/tags/tags.md",
+    "core/basics/блять ну ты понял.md",
+    "core/archetypes/Застрельщик.md",
+    "core/basics/tags",
+    "core/archetypes/Гренадир.md",
+    "core/how to create char/как создать чара.md",
+    "core/basics/Устойчивость.md",
+    "core/basics/Механ.md",
+    "demo file.md",
+    "core/basics/Untitled.md",
+    "core/basics/статы.md",
+    "core/items/items.md",
+    "core/features/Проворный.md",
+    "core/features/features.md",
+    "core/basics/basics.md",
+    "core/archetypes/archetypes.md",
+    "core/archetypes/Комбатант.md",
+    "core/archetypes/Инженер.md",
+    "core/items",
     "README.md",
     "LICENSE",
-    "demo file.md",
     "lore",
     "core/how to create char",
     "core/features",
@@ -228,31 +251,8 @@
     "core/species",
     "core/basics/actions/Дії.md",
     "core/basics/actions/Действия.md",
-    "core/basics/skills/skills.md",
-    "tables/tables.md",
-    "dice-cats/chars/Сільфія/Сільфія.md",
-    "modules/Врятувати містечко _Південний Камінь_/Врятувати містечко _Південний Камінь_.md",
-    "dice-cats/chars/Клот Сапольскі/Клот Сапольскі.md",
-    "dice-cats/chars/chars.md",
-    "dice-cats/chars/Бальдемар Бальдобард/Бальдемар Бальдобард.md",
-    "dice-cats/chars/Діпдюлінг/Діпдюлінг.md",
-    "Діпдюлінг.md",
-    "dice-cats/chars/Клот Сапольскі/Деталі.md",
-    "core/spells/spells.md",
-    "dice-cats/chars/Бальдемар Бальдобард/Деталі.md",
-    "dice-cats/chars/Діпдюлінг/Деталі.md",
-    "dice-cats/chars/Сільфія.md",
-    "dice-cats/chars/Сільфія/Деталі.md",
-    "dice-cats/chars/Мах Мономах/Мах Мономах.md",
-    "dice-cats/chars/Мах Мономах/Деталі.md",
-    "dice-cats/chars/Лютострах Молодший/Деталі.md",
-    "dice-cats/chars/Лютострах Молодший/Лютострах Молодший.md",
-    "dice-cats/chars/Лютострах Молодший/Лютострах Молодший 1.md",
-    "core/classes/Бард(Bard)/Бард(Bard).md",
     "dice-cats/chars/Мах Мономах",
     "dice-cats/chars/Лютострах Молодший",
-    "dice-cats/chars/Клот Сапольскі",
-    "dice-cats/chars/Сільфія",
     "image.png"
   ]
 }
