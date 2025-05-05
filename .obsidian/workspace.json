@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core/items/МПМ \"Шкет\".md",
+                "file": "core/items/items.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "МПМ \"Шкет\""
+              "title": "items"
             }
           }
         ]
@@ -220,47 +220,48 @@
       "calendarium:Open Calendarium": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "templater-obsidian:Templater": false,
-      "markdown-table-editor:Open Markdown Table Editor": false
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "system3-relay:Relay": false
     }
   },
-  "active": "2c87bff504f79bda",
+  "active": "ac6fbedc75415890",
   "lastOpenFiles": [
+    "core/items/МПМ \"Шкет\".md",
+    "core/species/Горец.md",
+    "core/items/ПСМ \"Суворов\".md",
+    "core/items/Панцерный подсумок.md",
+    "core/dictionary/dictionary.md",
+    "core/features/Проворный.md",
+    "core/basics/статы.md",
+    "core/basics/basics.md",
+    "core/basics/tags/tags.md",
+    "core/basics/блять ну ты понял.md",
+    "core/basics/char stats/char stats.md",
+    "core/archetypes/archetypes.md",
+    "images/картинки обязательно тут.md",
     "key.pub",
     "key",
-    "core/items/ПСМ \"Суворов\".md",
-    "core/items/МПМ \"Шкет\".md",
-    "core/items/Панцерный подсумок.md",
     "core/items/items.md",
     "core/how to create char/как создать чара.md",
-    "core/basics/tags/tags.md",
     "lore/lore.md",
     "про атаки.md",
-    "core/basics/char stats/char stats.md",
     "core/basics/Устойчивость.md",
     "core/features/features.md",
-    "core/features/Проворный.md",
     "core/basics/char stats/Инженерия(ИНЖ).md",
-    "core/dictionary/dictionary.md",
     "core/dictionary",
     "demo file.md",
-    "core/basics/статы.md",
     "core/basics/char stats",
-    "core/basics/блять ну ты понял.md",
     "core/archetypes/Застрельщик.md",
     "core/archetypes/Гренадир.md",
     "core/archetypes/Инженер.md",
     "core/archetypes/Комбатант.md",
-    "images/картинки обязательно тут.md",
     "lore/Лор.md",
-    "core/species/Горец.md",
     "core/basics/tags",
-    "core/basics/Механ.md",
     "core/items",
     "LICENSE",
     "lore",
     "core/how to create char",
     "core/features",
-    "core/archetypes",
     "image.png"
   ]
 }
