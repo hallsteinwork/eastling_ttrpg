@@ -12,5 +12,9 @@ Thumbs.db
 .vscode/
 *.log
 *.tmp
+<<<<<<< HEAD
 key
 key.pub
+=======
+.obsidian/workspace.json
+>>>>>>> c87a7e407be8a9bd9629f4dd13705d12985d249c
