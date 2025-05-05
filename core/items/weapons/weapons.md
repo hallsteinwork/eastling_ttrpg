@@ -1,4 +1,6 @@
-$$Pediks engeniiiireinrg 
+
+
+`Pediks engeniiiireinrg`
 
 [[РМГМ "Гнев Монребланка"]]
 [[ПСМ "Суворов"]]
@@ -7,3 +9,4 @@ $$Pediks engeniiiireinrg
 [[ДПЭ "Дыхание Феникса"]]
 [[ПМД "Слюна Кобры"]]
 [[ЭПСД]]
+
