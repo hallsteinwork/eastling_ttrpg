@@ -8,31 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c87bff504f79bda",
+            "id": "daaa9095b4670c58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core/items/weapons/weapons.md",
+                "file": "README.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "weapons"
+              "title": "README"
             }
           },
           {
-            "id": "98793c239e8e6e03",
+            "id": "b66592eac70a2efd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "core/items/weapons/АРЦ-7.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "АРЦ-7"
+              "title": "New tab"
             }
           }
         ]
@@ -108,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frog campaign/дать геймерам.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for дать геймерам"
+              "title": "Backlinks"
             }
           },
           {
@@ -156,13 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "frog campaign/дать геймерам.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of дать геймерам"
+              "title": "Outline"
             }
           },
           {
@@ -215,7 +209,8 @@
               "title": "Dice Tray"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -231,50 +226,50 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "calendarium:Open Calendarium": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "templater-obsidian:Templater": false,
-      "markdown-table-editor:Open Markdown Table Editor": false
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "system3-relay:Relay": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "2c87bff504f79bda",
+  "active": "daaa9095b4670c58",
   "lastOpenFiles": [
-    "core/items/weapons/ЭПСД.md",
-    "core/items/weapons/АРЦ-7.md",
-    "core/items/weapons/МПМ \"Шкет\".md",
-    "core/items/weapons/weapons.md",
-    "core/items/weapons/ПМД \"Слюна Кобры\".md",
-    "core/items/weapons/ДПЭ \"Дыхание Феникса\".md",
-    "core/items/weapons/РМГМ \"Гнев Монребланка\".md",
-    "core/items/weapons/ПСМ \"Суворов\".md",
-    "core/items/items.md",
-    "core/items/Панцерный подсумок.md",
-    "core/basics/Устойчивость.md",
-    "core/items/weapons",
-    "core/archetypes/Инженер.md",
-    "core/basics/статы.md",
-    "core/basics/блять ну ты понял.md",
-    "images/картинки обязательно тут.md",
-    "про атаки.md",
-    "core/basics/char stats/char stats.md",
-    "core/features/features.md",
-    "core/features/Проворный.md",
-    "core/basics/char stats/Инженерия(ИНЖ).md",
-    "core/basics/tags/tags.md",
-    "core/dictionary/dictionary.md",
-    "core/dictionary",
-    "demo file.md",
-    "lore/lore.md",
-    "core/basics/char stats",
-    "core/archetypes/Застрельщик.md",
-    "core/archetypes/Гренадир.md",
-    "core/basics/tags",
-    "core/items",
-    "LICENSE",
-    "lore",
-    "core/how to create char",
-    "core/features",
-    "core/archetypes",
-    "image.png"
+    "core/sync/image.png",
+    "core/core.md",
+    "core/items 1/consumables/Heal",
+    "core/items 1/consumables/Buff-Debuff",
+    "core/items 1/consumables/boom-boom-devices",
+    "core/items 1/weapons",
+    "core/items 1/specials",
+    "core/items 1/armory",
+    "core/items 1/consumables",
+    "core/items 1",
+    "core/sync/CHAT.md",
+    "core/sync/TODO.md",
+    "core/items/specials/АВС.md",
+    "core/items/consumables/boom-boom-devices/ФРГ.md",
+    "core/items/specials/specials.md",
+    "core/items/consumables/Buff-Debuff/Buff-Debuff.md",
+    "core/species/Горец.md",
+    "core/items/consumables/boom-boom-devices/boom-boom-devices.md",
+    "core/items/consumables/boom-boom-devices",
+    "core/items/specials/Панцерный подсумок.md",
+    "core/items/consumables/Heal/ШС-4 Адреналинум.md",
+    "core/items/consumables/Heal/Гидравлический Тоник.md",
+    "core/items/consumables/Buff-Debuff/Нейромон.md",
+    "core/items/consumables/Heal/Heal.md",
+    "core/items/consumables/Buff-Debuff/ЖМЛ-12.md",
+    "core/items/consumables/Heal/Стимулятор LT-1.md",
+    "core/items/consumables/Heal/Стимулятор РВ-13.md",
+    "core/items/consumables/Buff-Debuff/Буровая жилка.md",
+    "core/items/consumables/Buff-Debuff/Железная печень.md",
+    "core/basics/turn/action/Подавление.md",
+    "core/basics/Без названия.md",
+    "core/basics/Боезапас.md",
+    "core/basics/Хиты.md",
+    "core/items/consumables/Heal/Слеза Механика.md",
+    "core/items/consumables/Buff-Debuff",
+    "core/basics/Укрытие.md"
   ]
 }
