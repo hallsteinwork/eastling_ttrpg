@@ -1,2 +1,4 @@
-[[Панцерный подсумок]]
-[[ПСМ "Суворов"]]
+[[armory]]
+[[consumables]]
+[[specials]]
+[[weapons]]
