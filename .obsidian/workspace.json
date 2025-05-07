@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "images/images.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "images"
             }
           },
           {
@@ -28,7 +28,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -54,7 +54,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -166,7 +166,7 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {},
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Плагин больше не активен"
             }
           },
           {
@@ -176,7 +176,7 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {},
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Плагин больше не активен"
             }
           },
           {
@@ -186,7 +186,7 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {},
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Плагин больше не активен"
             }
           },
           {
@@ -196,7 +196,7 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {},
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Плагин больше не активен"
             }
           },
           {
@@ -205,8 +205,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
             }
           }
         ],
@@ -219,57 +219,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "templater-obsidian:Templater": false,
-      "markdown-table-editor:Open Markdown Table Editor": false,
-      "system3-relay:Relay": false,
-      "calendarium:Open Calendarium": false
+      "system3-relay:Relay": false
     }
   },
   "active": "daaa9095b4670c58",
   "lastOpenFiles": [
+    "Стимулятор LT-1.jpg.md",
+    "images/images.md",
+    "core/items/armory/Мундир Гессен.md",
+    "lore/Корпорации/Корпорации.md",
+    "lore/Иерархия/Иерархия.md",
+    "lore/Города/Столица Хуица я ебу чтоле.md",
+    "lore/Города/Города.md",
+    "core/items/armory/Мундир «Гессен».md",
+    "core/species/species.md",
+    "core/species/Горец.md",
+    "core/items/weapons/weapons.md",
+    "core/items/weapons/ЭПСД.md",
+    "core/items/weapons/АРЦ-7.md",
+    "core/items/items.md",
+    "core/items/armory/exoskeleton/exoskeleton.md",
+    "core/basics/Паровой Цикл.md",
+    "core/items/armory/exoskeleton/ЭКЗ Титан.md",
+    "core/items/armory/exoskeleton/ЭКЗ Модель-5.md",
+    "README.md",
+    "core/items/armory/exoskeleton/ЭКЗ Крепыш.md",
+    "core/items/armory/Панцер-броня Штольц.md",
+    "core/items/armory/Керамоспан Турмалин.md",
+    "core/items/armory/Дреднаут.md",
+    "core/how to create char/как создать чара.md",
+    "core/features/features.md",
+    "core/dictionary/Материалы.md",
+    "core/items/armory/exoskeleton",
+    "core/species",
+    "core/how to create char",
+    "lore/Иерархия",
+    "lore/Города",
+    "lore/Корпорации",
     "core/sync/image.png",
-    "core/core.md",
     "core/items 1/consumables/Heal",
     "core/items 1/consumables/Buff-Debuff",
     "core/items 1/consumables/boom-boom-devices",
-    "core/items 1/weapons",
-    "core/items 1/specials",
-    "core/items 1/armory",
-    "core/items 1/consumables",
-    "core/items 1",
-    "core/sync/CHAT.md",
-    "core/sync/TODO.md",
-    "core/items/specials/АВС.md",
-    "core/items/consumables/boom-boom-devices/ФРГ.md",
-    "core/items/specials/specials.md",
-    "core/items/consumables/Buff-Debuff/Buff-Debuff.md",
-    "core/species/Горец.md",
-    "core/items/consumables/boom-boom-devices/boom-boom-devices.md",
-    "core/items/consumables/boom-boom-devices",
-    "core/items/specials/Панцерный подсумок.md",
-    "core/items/consumables/Heal/ШС-4 Адреналинум.md",
-    "core/items/consumables/Heal/Гидравлический Тоник.md",
-    "core/items/consumables/Buff-Debuff/Нейромон.md",
-    "core/items/consumables/Heal/Heal.md",
-    "core/items/consumables/Buff-Debuff/ЖМЛ-12.md",
-    "core/items/consumables/Heal/Стимулятор LT-1.md",
-    "core/items/consumables/Heal/Стимулятор РВ-13.md",
-    "core/items/consumables/Buff-Debuff/Буровая жилка.md",
-    "core/items/consumables/Buff-Debuff/Железная печень.md",
-    "core/basics/turn/action/Подавление.md",
-    "core/basics/Без названия.md",
-    "core/basics/Боезапас.md",
-    "core/basics/Хиты.md",
-    "core/items/consumables/Heal/Слеза Механика.md",
-    "core/items/consumables/Buff-Debuff",
-    "core/basics/Укрытие.md"
+    "core/items 1/weapons"
   ]
 }

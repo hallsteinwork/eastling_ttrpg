@@ -1,0 +1,4 @@
+[[armory]]
+[[consumables]]
+[[specials]]
+[[weapons]]
